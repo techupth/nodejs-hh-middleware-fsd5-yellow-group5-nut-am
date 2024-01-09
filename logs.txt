@@ -1,0 +1,34 @@
+
+ Logging is error on IP: ::1, Method: undefined, Endpoint: /assignments/1
+ Logging is error on IP: ::1, Method: undefined, Endpoint: /assignments/1
+IP: ::1, Method GET, Endpoint /assignments/1
+IP: ::1, Method GET, Endpoint /assignments/1
+IP: ::1, Method GET, Endpoint /assignments/1
+IP: ::1, Method GET, Endpoint /assignments/2
+IP: ::1, Method GET, Endpoint /assignments/2
+IP: ::1, Method GET, Endpoint /assignments/2
+IP: ::1, Method POST, Endpoint /assignments/2
+IP: ::1, Method POST, Endpoint /assignments/2
+IP: ::1, Method GET, Endpoint /assignments/2
+IP: ::1, Method GET, Endpoint /assignments/2
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments/1
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method POST, Endpoint /assignments
+IP: ::1, Method GET, Endpoint /assignments
+IP: ::1, Method PUT, Endpoint /assignments/1
+IP: ::1, Method GET, Endpoint /assignments/1
